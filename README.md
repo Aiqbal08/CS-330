@@ -1,6 +1,7 @@
 SNHU-CS-330
 
 Welcome to My journey in the World of Codes!
+
 Hello there! I'm excited to share with you the essence of my journey in designing and developing software. This README is a window into my world, where I blend creativity with technology. 
 
 🌟 Designing Software: My Human-Centric Approach
